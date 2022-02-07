@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NickBel42
+- 👀 I’m interested in many things in technology 
+- 🌱 I’m currently learning CS50
+- 💞️ I’m looking to collaborate on anything 
+- 📫 How to reach me is to email me at belnick2006@gmail.com
